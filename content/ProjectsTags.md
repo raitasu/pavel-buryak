@@ -1,3 +1,0 @@
-Shop
-Social network
-Portfolio
