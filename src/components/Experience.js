@@ -15,7 +15,6 @@ import {
   List,
   ListItem,
   ListIcon,
-  Button,
   ButtonGroup,
   Center,
 } from "@chakra-ui/react";
@@ -29,16 +28,11 @@ export default function Experience({ color }) {
   const experience = ExperienceArray();
   const options = TagsArray("ExperienceTags");
   const [selected, setSelected] = useState("");
-
   useEffect(() => {
     if (options.length > 0) {
       setSelected(options[0].value);
     }
   }, [options]);
-  
-  const handleSelected = (value) => {
-    setSelected(value);
-  };
 
   return (
     <>
@@ -60,19 +54,10 @@ export default function Experience({ color }) {
           </Stack>
           <Center px={4}>
             <ButtonGroup variant="outline">
-              {options.map((option) => (
-                <Button
-                  colorScheme={selected === option.value ? `${color}` : "gray"}
-                  onClick={() => handleSelected(option.value)}
-                >
-                  {option.value}
-                </Button>
-              ))}
             </ButtonGroup>
           </Center>
           <Stack px={4} spacing={4}>
             {experience
-              .filter((exp) => exp.tags.includes(selected))
               .map((exp) => (
                 <Fade bottom>
                   <Card key={exp.company} size="sm">
@@ -107,7 +92,7 @@ export default function Experience({ color }) {
                       </Flex>
                     </CardBody>
                     <CardFooter>
-                      <HStack spacing={2}>
+                      <Flex gap={2} wrap={'wrap'}>
                         {exp.badges.map((badge) => (
                           <Badge
                             key={badge.name}
@@ -116,7 +101,7 @@ export default function Experience({ color }) {
                             {badge.name}
                           </Badge>
                         ))}
-                      </HStack>
+                      </Flex>
                     </CardFooter>
                   </Card>
                 </Fade>

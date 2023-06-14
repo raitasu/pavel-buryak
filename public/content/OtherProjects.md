@@ -1,23 +1,30 @@
-## Project 1
-Description
-- Tags: Category 1
+## Midas pizza
+This web application is an online pizza store. It is currently under development.
+- Tags: Shop
 - Badges:
-  - Badge [blue]
+  - React [blue]
+  - Redux [blue]
+  - Typescript [blue]
 - Buttons:
-  - Link [https://example.com]
+  - Link [https://raitasu.github.io/midas-pizza/]
 
-## Project 2
-Description
-- Tags: Category 2
+## Social network for harley davidson owners
+An application that implements a social network with the ability to register, search by users, subscribe to users and communicate with users.
+- Tags: Social network
 - Badges:
-  - Badge [blue]
+  - React [blue]
+  - HTML/CSS [blue]
+  - Typescript [blue]
+  - Formik [blue]
 - Buttons:
-  - Link [https://example.com]
+  - Link [https://raitasu.github.io/social-network/]
 
-## Project 3
-Description
-- Tags: Category 3
+## Portfolio
+My old portfolio
+- Tags: Portfolio
 - Badges:
-  - Badge [blue]
+  - Javascript [blue]
+  - SASS [blue]
+  - React [blue]
 - Buttons:
-  - Link [https://example.com]
+  - Link [https://raitasu.github.io/my-portfolio/]
