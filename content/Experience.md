@@ -1,0 +1,44 @@
+## IT-INCUBATOR
+- *Fronted developer* | Jan 22 - Jun 22
+- ![logo512](../assets/incubator.jpg)
+- Tags: Category 1
+- Badges:
+  - TypeScript [blue]
+  - React [blue]
+  - Redux [blue]
+  - Redux Thunk [blue]
+  - Axios [blue]
+  - React Router Dom [blue]
+  - Redux Form [blue]
+  - Ant Design [blue]
+  - REST API [blue]
+  - Jest [blue]
+  - Redux Toolkit [blue]
+  - Formik [blue]
+  - Material UI [blue]
+  - Git [blue]
+- List Items:
+  - Implementation of the profile, as well as its editing. Implementation of pagination and search by users. Implementation of registration and login. Refactoring, bug fixing, deploying; Organizing correct app architecture; Covering code with unit tests.
+  - Implementation of CRUD operations with the server, as well as authorization with field validation. Implementation of Unit tests using Jest and Snapshot tests using Storybook. Bug fixing, deploying; Covering code with unit tests.
+
+## CYBERGIZER
+- *Fronted developer* | Jun 22 - Mar 23
+- ![logo512](../assets/cybergizer.jpg)
+- Tags: Category 2
+- Badges:
+  - TypeScript [blue] 
+  - Redux [blue]
+  - Zod [blue]
+  - RTK Query [blue] 
+  - React hook form [blue]
+  - Chakra UI [blue]
+  - i18 [blue]
+  - Storybook [blue] 
+  - React dropzone [blue]  
+  - Javascipt [blue] 
+  - Tanstack/React Table [blue]  
+  - HTML/CSS [blue]
+  - React [blue]
+  - React Router [blue]
+- List Items:
+  - Make new features, solve bugs. Layout of the application, adding and changing the application logic.
