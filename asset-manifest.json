@@ -1,16 +1,21 @@
 {
   "files": {
     "main.css": "/pavel-buryak/static/css/main.073c9b0a.css",
-    "main.js": "/pavel-buryak/static/js/main.a1d3f4b5.js",
+    "main.js": "/pavel-buryak/static/js/main.c1e5f8c8.js",
     "static/js/787.1ed0c42c.chunk.js": "/pavel-buryak/static/js/787.1ed0c42c.chunk.js",
+    "static/media/incubator.jpg": "/pavel-buryak/static/media/incubator.00f8330034d8dcd63ac7.jpg",
+    "static/media/image25-11.png": "/pavel-buryak/static/media/image25-11.6838ba58a14d4fbc15e8.png",
+    "static/media/can-task-be-a-verb-5813-@1x.jpg": "/pavel-buryak/static/media/can-task-be-a-verb-5813-7f1eb0445f882a35228fdfdaea993c72@1x.4a092e6b95cb190062f0.jpg",
     "static/media/mainPhotojpg.jpg": "/pavel-buryak/static/media/mainPhotojpg.c52b96d052d8809d2f71.jpg",
+    "static/media/team-charter.jpg": "/pavel-buryak/static/media/team-charter.d8752393ae46b952ea35.jpg",
+    "static/media/imgonline-com-ua-Resize-7O6ZTjhKVm.jpg": "/pavel-buryak/static/media/imgonline-com-ua-Resize-7O6ZTjhKVm.1a69d56beb96a1831ece.jpg",
     "index.html": "/pavel-buryak/index.html",
     "main.073c9b0a.css.map": "/pavel-buryak/static/css/main.073c9b0a.css.map",
-    "main.a1d3f4b5.js.map": "/pavel-buryak/static/js/main.a1d3f4b5.js.map",
+    "main.c1e5f8c8.js.map": "/pavel-buryak/static/js/main.c1e5f8c8.js.map",
     "787.1ed0c42c.chunk.js.map": "/pavel-buryak/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.a1d3f4b5.js"
+    "static/js/main.c1e5f8c8.js"
   ]
 }
